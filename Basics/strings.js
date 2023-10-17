@@ -15,3 +15,4 @@ console.log(a.to);
 //  slice                               to slice the string into smaller parts and it can take negative arguments also
 //  concat                              To concat one string with another
 //  replace                             replace the string with desired character
+//  charAt()                            to find the char given in the specific index
