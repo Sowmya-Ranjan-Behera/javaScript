@@ -3,8 +3,8 @@
 // how ever using same data type there wont be any problem but using diffrent data type lets see
 
 // console.log("2"+1);// it will be "21 " because after string it treats all the numbers as string in addition
-//console.log("21"*2);// but all other operators will just perform the mathematical operations
-//console.log(true+1);// true will be converted to 1 samewise false will be converted to 0
+// console.log("21"*2);// but all other operators will just perform the mathematical operations
+// console.log(true+1);// true will be converted to 1 samewise false will be converted to 0
 //console.log(true+"");// this will be converted to string
 
 //*************************************comparision operator*********************** */
